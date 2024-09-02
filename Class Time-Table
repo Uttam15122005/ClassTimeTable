@@ -1,0 +1,74 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Class timetable</title>
+</head>
+<body>
+    <table>
+        <tr>
+            <th style="background-color: red;">Period/Day</th>
+            <th style="background-color: aqua;">9:00-10:00</th>
+            <th style="background-color: brown;">10:00-11:00</th>
+            <th  style="background-color: rgb(31, 210, 11);">11:00-12:00</th>
+            <th style="background-color: rgb(239, 18, 55);">12:00-01:00</th>
+            <th style="background-color: cadetblue ;">01:00-02:00</th>
+            <th style="background-color: slateblue;">02:00-03:00</th>
+            <th style="background-color: khaki ;">03:00-04:00</th>
+            <th style="background-color: yellow;">04:00-05:00</th>
+        </tr>
+        <tr>
+            <td style="background: red;">Monday</td>
+            <td colspan="2" style="background: blueviolet;">OS Lab</td>
+            <td style="background-color: brown;">Free</td>
+            <td style = "background-color: darkgray ">SE(8110)</td> style = "background-color: "
+            <td style = "background-color:darkolivegreen ">Lunch</td> 
+            <td style = "background-color: darkorchid">Free</td>
+            <td colspan="2" style = "background-color:darkslategray ">IBM 1 Lab</td>
+        </tr>
+        <tr>
+            <td  style = "background-color:yellow ">Tuesday</td>
+            <td  style = "background-color: pink ">IBM 1(8302)</td>
+            <td  style = "background-color: salmon">OS (8309)</td>
+            <td style = "background-color: seagreen">Free</td>
+            <td  style = "background-color: slateblue">DAA(8510)</td>
+            <td  style = "background-color: snow">Lunch</td>
+            <td style = "background-color: violet " >Free</td>
+            <td style = "background-color: brown">IBM 2(8510)</td>
+            <td  style = "background-color:forestgreen ">Free</td>
+        </tr>
+        <tr>
+            <td style="background-color: rgb(155, 65, 65) ">Wednesday</td>
+            <td colspan="2" style="background-color: yellowgreen;">SE lab</td>
+            <td colspan="2" style="background-color: aqua;">DAA lab</td>
+            <td style="background-color: red;">Lunch</td>
+            <td style="background-color: blue;">OS(8306)</td>
+            <td style="background-color: blueviolet;">IBM 1(8609)</td>
+            <td style="background-color: pink;">Free</td>
+        </tr>
+        <tr>
+            <td style="background-color: aqua;">Thursady</td>
+            <td style="background-color: blueviolet;">Free</td>
+            <td style="background-color: red;">IBM 2(8610)</td>
+            <td colspan="2" style="background-color: blue;">IBM 2 Lab</td>
+            
+            <td style="background-color: blue;">Lunch</td>
+            <td style="background-color: green;">SE(8608)</td>
+            <td style="background-color: yellow;">Free</td>
+            <td style="background-color: gray style="background-color: " ;">DAA(8306)</td>
+        </tr>
+        <tr>
+            <td style="background-color: rgb(216, 187, 23)">Friday</td>
+            <td style="background-color: orange">IBM 2(8302)</td>
+            <td style="background-color: rgb(98, 98, 243)">Free</td>
+            <td style="background-color: rgb(155, 65, 65)">IBM 1(8303)</td>
+            <td style="background-color: red ">OS(8504)</td>
+            <td style="background-color: greenyellow">Lunch</td>
+            <td colspan="2" style="background-color: blueviolet;">Free</td>
+            <td style="background-color: pink;">DAA(8304)</td>
+        </tr>
+    </table>
+    
+</body>
+</html>
